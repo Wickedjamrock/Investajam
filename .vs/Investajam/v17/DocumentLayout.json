@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\models\\investitionen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:models\\investitionen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\usercontrols\\sidebar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\usercontrols\\sidebar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\views\\deckungsbeitragview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:views\\deckungsbeitragview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\usercontrols\\sidebar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\usercontrols\\sidebar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\views\\deckungsbeitragview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:views\\deckungsbeitragview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\views\\startview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\views\\startview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\viewmodels\\startviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\viewmodels\\startviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|c:\\users\\redda\\onedrive\\dokumente\\projekt investsoftware\\investajam\\investajam\\investajam.ui\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297EBE74-1986-45C9-BD85-4B732B2681E9}|Investajam.csproj|solutionrelative:investajam.ui\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,101 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Investitionen.cs",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Models\\Investitionen.cs",
-              "RelativeDocumentMoniker": "Models\\Investitionen.cs",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Models\\Investitionen.cs",
-              "RelativeToolTip": "Models\\Investitionen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:41:55.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeckungsbeitragView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\DeckungsbeitragView.axaml.cs",
-              "RelativeDocumentMoniker": "Views\\DeckungsbeitragView.axaml.cs",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\DeckungsbeitragView.axaml.cs",
-              "RelativeToolTip": "Views\\DeckungsbeitragView.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:38:11.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeckungsbeitragView.axaml",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\DeckungsbeitragView.axaml",
-              "RelativeDocumentMoniker": "Views\\DeckungsbeitragView.axaml",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\DeckungsbeitragView.axaml",
-              "RelativeToolTip": "Views\\DeckungsbeitragView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:32:44.881Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Investajam.csproj",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.csproj",
-              "RelativeDocumentMoniker": "Investajam.csproj",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.csproj",
-              "RelativeToolTip": "Investajam.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-23T19:25:15.42Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T17:43:20.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainView.axaml",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\MainView.axaml",
-              "RelativeDocumentMoniker": "Views\\MainView.axaml",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\MainView.axaml",
-              "RelativeToolTip": "Views\\MainView.axaml",
+              "DocumentIndex": 2,
+              "Title": "Sidebar.axaml",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\UserControls\\Sidebar.axaml",
+              "RelativeDocumentMoniker": "Investajam.UI\\UserControls\\Sidebar.axaml",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\UserControls\\Sidebar.axaml",
+              "RelativeToolTip": "Investajam.UI\\UserControls\\Sidebar.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:12:34.86Z"
+              "WhenOpened": "2025-04-28T19:29:06.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\MainView.axaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainView.axaml.cs",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Views\\MainView.axaml.cs",
-              "RelativeToolTip": "Views\\MainView.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Sidebar.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\UserControls\\Sidebar.axaml.cs",
+              "RelativeDocumentMoniker": "Investajam.UI\\UserControls\\Sidebar.axaml.cs",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\UserControls\\Sidebar.axaml.cs",
+              "RelativeToolTip": "Investajam.UI\\UserControls\\Sidebar.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:12:34.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.axaml",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\App.axaml",
-              "RelativeDocumentMoniker": "App.axaml",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\App.axaml",
-              "RelativeToolTip": "App.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T18:41:50.222Z"
+              "WhenOpened": "2025-04-28T19:29:06.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\App.axaml.cs",
-              "RelativeDocumentMoniker": "App.axaml.cs",
-              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\App.axaml.cs",
-              "RelativeToolTip": "App.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\App.axaml",
+              "RelativeDocumentMoniker": "Investajam.UI\\App.axaml",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\App.axaml",
+              "RelativeToolTip": "Investajam.UI\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T18:56:20.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartView.axaml",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\StartView.axaml",
+              "RelativeDocumentMoniker": "Investajam.UI\\Views\\StartView.axaml",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\StartView.axaml",
+              "RelativeToolTip": "Investajam.UI\\Views\\StartView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T18:52:31.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\ViewModels\\StartViewModel.cs",
+              "RelativeDocumentMoniker": "Investajam.UI\\ViewModels\\StartViewModel.cs",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\ViewModels\\StartViewModel.cs",
+              "RelativeToolTip": "Investajam.UI\\ViewModels\\StartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T18:35:51.482Z"
+              "WhenOpened": "2025-04-28T18:52:23.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Investajam.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Program.cs",
+              "RelativeToolTip": "Investajam.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:52:03.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Investajam.UI\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Investajam.UI\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:50:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Investajam.UI\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Investajam.UI\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T18:49:42.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Investajam.UI\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\redda\\OneDrive\\Dokumente\\Projekt Investsoftware\\Investajam\\Investajam\\Investajam.UI\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Investajam.UI\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:46:42.074Z"
             }
           ]
         }

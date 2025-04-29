@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Investajam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+848365b83a138e73b8ad6bae796c244ae1d4e9ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Investajam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Investajam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

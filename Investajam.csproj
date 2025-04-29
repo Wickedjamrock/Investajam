@@ -5,11 +5,11 @@
     <Nullable>enable</Nullable>
     <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+    <AvaloniaUseCompiledBindingsByDefault>false</AvaloniaUseCompiledBindingsByDefault>
   </PropertyGroup>
 
   <ItemGroup>
-    <AvaloniaResource Include="Assets\**" />
+    <AvaloniaResource Include="Investajam.UI\Assets\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,10 +23,17 @@
       <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
     </PackageReference>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+    <PackageReference Include="ReactiveUI" Version="20.2.45" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Constants\" />
+    <Folder Include="Investajam.core\Helpers\" />
+    <Folder Include="Investajam.core\Constants\" />
+    <Folder Include="Investajam.core\Enums\" />
+    <Folder Include="Investajam.core\Interface\" />
+    <Folder Include="Investajam.Infrastructure\Database\" />
+    <Folder Include="Investajam.Infrastructure\Repositories\" />
+    <Folder Include="Investajam.Tests\IntegrationTests\" />
+    <Folder Include="Investajam.Tests\UnitTests\" />
   </ItemGroup>
 </Project>

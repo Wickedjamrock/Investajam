@@ -1,7 +1,0 @@
-<UserControl xmlns="https://github.com/avaloniaui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             x:Class="Investajam.Views.MainView">
-	<Grid>
-		<TextBlock Text="Hello from MainView" />
-	</Grid>
-</UserControl>

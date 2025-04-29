@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using Investajam.ViewModels;
+using Investajam.Investajam.UI.ViewModels;
 
-namespace Investajam
+namespace Investajam.Investajam.UI
 {
     public class ViewLocator : IDataTemplate
     {

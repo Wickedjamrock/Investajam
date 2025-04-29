@@ -1,0 +1,22 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:Investajam.UI.Views"
+        xmlns:controls="clr-namespace:Investajam.UI.UserControls"
+        x:Class="Investajam.UI.Views.MainWindow"
+        Width="1200" Height="800"
+        Title="Investajam - Investitionssoftware">
+
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+
+		<!-- Sidebar -->
+		<controls:Sidebar />
+
+		<!-- Hauptinhalt -->
+		<ContentControl Grid.Column="1" Content="{Binding CurrentView}" />
+	</Grid>
+
+</Window>

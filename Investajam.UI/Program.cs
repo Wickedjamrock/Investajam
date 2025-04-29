@@ -1,7 +1,9 @@
 ﻿using System;
 using Avalonia;
+using Investajam.UI;
 
-namespace Investajam
+
+namespace Investajam.UI
 {
     internal sealed class Program
     {
@@ -18,5 +20,9 @@ namespace Investajam
                 .UsePlatformDetect()
                 .WithInterFont()
                 .LogToTrace();
+    }
+    partial class App : Application
+    {
+
     }
 }

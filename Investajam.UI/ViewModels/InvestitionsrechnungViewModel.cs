@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Investajam.ViewModels
+namespace Investajam.Investajam.UI.ViewModels
 {
-    internal class DeckungsbeitragViewModel
+    internal class InvestitionsrechnungViewModel
     {
     }
 }

@@ -1,0 +1,23 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Investajam.UI.UserControls.Sidebar"
+             Width="200"
+             Background="#f8f9fa">
+
+	<StackPanel Margin="10" Spacing="15">
+		<TextBlock Text="Investajam" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+		<!--ProjektButton für Dropdown ohne Filterpfeil-->
+		<Button Name="ProjektButton" Content="Projekte" HorizontalAlignment="Stretch" />
+		<!--Verstecktes Dropdown-->
+		<StackPanel Name="ProjektDropdown" Margin="10,5,0,5" Spacing="5" IsVisible="False">
+			<Button Content="Neues Projekt" HorizontalAlignment="Stretch" />
+			<Button Content="Projekt bearbeiten" HorizontalAlignment="Stretch" />
+			<Button Content="Archiv" HorizontalAlignment="Stretch" />
+		</StackPanel> 
+		
+		<Button Content="Berechnungen" HorizontalAlignment="Stretch" />
+		<Button Content="Tools" HorizontalAlignment="Stretch" />
+		<Button Content="Einstellungen" HorizontalAlignment="Stretch" />
+	</StackPanel>
+
+</UserControl>

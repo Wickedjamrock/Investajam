@@ -2,9 +2,10 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using Investajam.Views;
+using Investajam.Investajam.UI.ViewModels;
+using Investajam.UI.Views;
 
-namespace Investajam
+namespace Investajam.UI
 {
     public partial class App : Application
     {
@@ -17,9 +18,9 @@ namespace Investajam
         {
             if (ApplicationLifetime is IClassicDesktopStyleApplicationLifetime desktop)
             {
-                desktop.MainWindow = new Window
+                desktop.MainWindow = new MainWindow
                 {
-                    Content = new MainView()
+                    DataContext = new MainViewModel()
                 };
             }
 

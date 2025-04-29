@@ -1,0 +1,36 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Investajam.Views.StartView">
+
+    <DockPanel>
+
+        <!-- Menüzeile oben -->
+        <Border Background="#f8f9fa" DockPanel.Dock="Top" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Logo ggf. dann noch ein Bild einbauen -->
+                <TextBlock Text="Investajam" FontSize="24" FontWeight="Bold" VerticalAlignment="Center"/>
+
+                <!-- Navigations Buttons -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="1" VerticalAlignment="Center" Spacing="20">
+                    <Button Content="Home" />
+                    <Button Content="Projects" />
+                    <Button Content="Rechnungstools" />
+                    <Button Content="Archiv" />
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Hauptbereich -->
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Spacing="20">
+            <TextBlock Text="Willkommen bei Investajam" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" />
+            <TextBlock Text="Ihre Lösung für smarte Investitionsentscheidungen." FontSize="18" HorizontalAlignment="Center" />
+            <Button Content="Jetzt starten" Width="200" Height="50" Background="#007bff" Foreground="White" />
+        </StackPanel>
+
+    </DockPanel>
+</UserControl>

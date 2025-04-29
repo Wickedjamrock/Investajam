@@ -1,0 +1,13 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:fluent="clr-namespace:Avalonia.Themes.Fluent;assembly=Avalonia.Themes.Fluent"
+             x:Class="Investajam.UI.App">
+	<Application.Styles>
+		<fluent:FluentTheme />
+
+		<Styles>
+			<StyleInclude Source="avares://Investajam/Investajam.UI/Styles/InvestajamTheme.axaml" />
+		</Styles>
+
+	</Application.Styles>
+</Application>
